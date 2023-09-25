@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Warren Wang
     - name: Date of Birth
-      value: 14th March 1879
+      value: 2nd October 2000
     - name: Languages
-      value: English, German
+      value: Mandarin, English, Japanese
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: B.S.
+      institution: Massachusetts Institute of Technology
+      year: 2023
       description:
         - Description 1.
         - Description 2.
@@ -71,19 +71,19 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
+    - year: 2019
+      items:
+        - Gold Medal at International Physics Olympiad
         - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+    - year: 2023
+      items:
+        - Phi Beta Kappa MIT chapter inductee
 
 - title: Academic Interests
   type: nested_list
   contents:
     - title: Topic 1.
-      items: 
+      items:
         - Description 1.
         - Description 2.
     - title: Topic 2.
