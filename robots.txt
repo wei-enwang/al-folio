@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://wei-enwang.github.io//sitemap.xml
+Sitemap: https://wei-enwang.github.io/sitemap.xml
