@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: A couple of works currently under review.
+description:
 nav: true
 nav_order: 1
 ---
