@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: AI researcher, software engineer
+subtitle: M.Eng. Student in Computer Science, Massachusetts Institute of Technology.
 
 profile:
   align: right
