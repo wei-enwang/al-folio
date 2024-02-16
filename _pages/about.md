@@ -6,7 +6,7 @@ subtitle: M.Eng. Student in Computer Science, Massachusetts Institute of Technol
 
 profile:
   align: right
-  image: profile2024_1.jpg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>email: weinwang@mit.edu</p>
@@ -23,4 +23,4 @@ I received my B.S. in EECS and B.S. in Physics from MIT in June, 2023.
 
 Outside of work, I enjoy playing basketball, board games and video games.
 
-Last edit: October 2023
+Last updated: October 2023
